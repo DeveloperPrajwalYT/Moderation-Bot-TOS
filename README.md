@@ -1,9 +1,8 @@
-# Evolution X's TOS
-<h1 align="center"> Privacy Policy  </h1>
+<h1 align="center"> Privacy and Policy/TOS</h1>
 
 <p align="center">
 
-<a href="https://is.gd/SpiritualNetwork"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://is.gd/EvolutionSupport"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
 
